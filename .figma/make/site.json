@@ -1,0 +1,11 @@
+{
+  "title": "Nightingale World 夜莺世界",
+  "description": "A premium platform for creators to build digital spaces, showcase their work, connect with fans, and access valuable resources in a captivating, futuristic environment.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
